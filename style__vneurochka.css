@@ -350,6 +350,17 @@ h2 {
     object-fit: content;
 }
 
+
+.project-img {
+    width: 500px;
+    margin: 20px auto;
+}
+
+.project-img img {
+    width: 100%;
+    object-fit: contain;
+}
+
 @media (max-width: 800px) {
     .menu {
         display: none;
